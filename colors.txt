@@ -11,4 +11,6 @@ Cyan
 123456789
 
 Azure
+gold
+Siler
 
