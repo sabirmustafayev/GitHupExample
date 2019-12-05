@@ -1,4 +1,9 @@
 blue
 blue2
 blue3
+red
+green
+yellow
+purple
+
 
