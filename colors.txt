@@ -1,14 +1,4 @@
 blue
-<<<<<<< HEAD
-1
-2
-3
-4
-
-
-=======
-red
-green
-======
->>>>>>> c0ced7e9b4075d1bec589bb5ad1f7531d132a6b5
+blue2
+blue3
 
