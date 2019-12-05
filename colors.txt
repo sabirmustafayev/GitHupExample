@@ -7,6 +7,6 @@ yellow
 purple
 white1
 white2
-Cayan
+Cyan
 
 
