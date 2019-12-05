@@ -13,4 +13,5 @@ Cyan
 Azure
 gold
 Siler
+French violet
 
