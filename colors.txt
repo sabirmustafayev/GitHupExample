@@ -1,8 +1,8 @@
 blue
-red
-green
-black
-yellow
-purple
+1
+2
+3
+4
+
 
 
