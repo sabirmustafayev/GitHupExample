@@ -8,5 +8,5 @@ purple
 white1
 white2
 Cyan
-
+Azure
 
