@@ -5,5 +5,7 @@ red
 green
 yellow
 purple
+white1
+white2
 
 
