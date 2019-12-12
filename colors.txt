@@ -14,4 +14,3 @@ Azure
 gold
 Siler
 French violet
-
