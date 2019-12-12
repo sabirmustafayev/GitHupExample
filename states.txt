@@ -13,3 +13,5 @@ NJ
 AL
 Canada
 Alaska
+AZ
+KS
